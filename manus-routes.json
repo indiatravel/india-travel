@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "India Fieldnotes"
+    },
+    {
+      "path": "/journeys.html",
+      "title": "Places & Routes"
+    },
+    {
+      "path": "/jaipur.html",
+      "title": "Jaipur, before the city hurries"
+    },
+    {
+      "path": "/stepwell.html",
+      "title": "A thousand lines of quiet"
+    },
+    {
+      "path": "/varanasi.html",
+      "title": "The river, one morning at a time"
+    },
+    {
+      "path": "/kerala.html",
+      "title": "A day that follows the water"
+    },
+    {
+      "path": "/munnar.html",
+      "title": "Green, with room to breathe"
+    },
+    {
+      "path": "/darjeeling.html",
+      "title": "The hills, at railway speed"
+    },
+    {
+      "path": "/kolkata.html",
+      "title": "Two streets, a whole afternoon"
+    },
+    {
+      "path": "/andaman.html",
+      "title": "A shore worth slowing down for"
+    },
+    {
+      "path": "/hampi.html",
+      "title": "Stone, sky, and the space between"
+    },
+    {
+      "path": "/goa.html",
+      "title": "Vagator, without the rush"
+    },
+    {
+      "path": "/good-guest.html",
+      "title": "Travel Gently"
+    },
+    {
+      "path": "/about.html",
+      "title": "Our Approach & Privacy"
+    },
+    {
+      "path": "/saved.html",
+      "title": "Your Saved Places"
+    },
+    {
+      "path": "/photo-credits.html",
+      "title": "Photography Credits & Licenses"
+    }
+  ]
+}
